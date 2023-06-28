@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    
+    body{
+        background-color: #f2f2f2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+
+    }
+
+   
+
+   
+    .one-container{
+        max-width: 375px;
+        height: 1070px;
+        background-color: white;
+       
+    }
+
+        .three-container{
+            width: 343px;
+            height: 320px;
+            background-color: #24053E;
+            position: relative;
+    top: -45px;
+        }
+        
+
+        .one-wrapper{
+            width: 375px;
+            height: 481px;
+            border-radius: 0% 0% 100% 100%/0% 0% 8% 8%;
+        background-color: #24053E; }
+
+        .two-wrapper{
+          width: 375px;
+          height: 600px;
+          margin-top: 40px;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 45px;
+         background-color: ghostwhite;
+         border-radius: 0% 0% 100% 100%/0% 0% 8% 8%;
+         
+        }
+
+        
+
+        .number-circle{
+            width: 50px;
+            height: 50px;
+            /*When using display block i was able to create the circle shape*/
+            display: inline-block;
+            text-align: center;
+            border: 1px solid rgba(88, 77, 98, 1);
+            font-size: 23px;
+            border-radius: 50%;
+            padding: 10px;
+           font-family: 'Bacasime Antique', serif;}
+
+            .second-titles{
+                font-family: 'Bacasime Antique', serif;
+                font-size: 27px;
+                color: #24053E;
+            }
+
+            .second-titles{
+                margin: 10px;
+               
+            }
+            
+            .second-p{
+                color:rgba(88, 77, 98, 1);
+            }
+
+
+    
+    
+		
+		
+
+        .logo{
+            display: flex;
+            justify-content: space-between;
+            width: 355px;
+         }
+            svg{
+                margin-top: 37px;
+                margin-left: 15px;}
+
+            .top-right{
+                font-family: 'Manrope', sans-serif;
+                color: #ffffff;
+                font-size: 13px;
+                border-bottom: 3px solid #44FFA1;
+                margin-top: 37px;
+            }
+
+                .first-main{
+                margin: 0 auto;
+                text-align: center;
+                margin-top: 60px;
+               
+             }
+                .first-head{
+                    font-size: 50px;
+                    font-family: 'Bacasime Antique', serif;
+                       font-weight: 100;
+                    color: ghostwhite; }
+
+                    button{
+                       margin: 30px;
+                       width: 33%;
+                       padding: 10px;
+                       font-size: 19px;
+                       background-color: #44FFA1;
+                       font-family: 'Oswald', sans-serif;
+                       border: none;
+                    }
+
+                    .two-container{
+                        
+                        width: 200px;
+                        height: 650px;
+                        }
+                        .two-content{
+                            width: 375px;
+                            height: 500px;
+                        }
+                        
+                            
+                            
+                          
+                        
+                        .three-head{
+                            color:#ffffff;
+                            font-family: 'Bacasime Antique', serif;
+                            font-size: 30px;
+                            padding-top: 10px;
+                            
+                            
+                        }
+                        .three-p{
+                            color: white;
+                            width: 280px;
+                            line-height: 20px;
+                            padding: 15px;
+                            text-align: center;
+                            
+                        }
+                        .three-content{
+                            padding: 10px;
+                            display: flex;
+                            flex-direction: column;
+                            justify-content: center;
+                            align-items: center;
+                        
+                        }
+
+                        .three-button{
+                           width: 140px; 
+                           font-size: 15px;
+                           padding: 15px;
+                        }
+
+                        .three-img{
+                            margin: 0;
+                            text-align: center;
+                        }
+
+
+                    
+
+                      
+                  
+                    
+                    
+                    
+                    
+                   
+                        
+                        
+                 
+               
+                
